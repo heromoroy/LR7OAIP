@@ -1,0 +1,6 @@
+C:\Users\niciv\Documents\Уроки\5 семестр\ОАП\LR7OAIP\bin\Release\LR7OAIP.exe.config
+C:\Users\niciv\Documents\Уроки\5 семестр\ОАП\LR7OAIP\bin\Release\LR7OAIP.exe
+C:\Users\niciv\Documents\Уроки\5 семестр\ОАП\LR7OAIP\bin\Release\LR7OAIP.pdb
+C:\Users\niciv\Documents\Уроки\5 семестр\ОАП\LR7OAIP\obj\Release\LR7OAIP.csproj.CoreCompileInputs.cache
+C:\Users\niciv\Documents\Уроки\5 семестр\ОАП\LR7OAIP\obj\Release\LR7OAIP.exe
+C:\Users\niciv\Documents\Уроки\5 семестр\ОАП\LR7OAIP\obj\Release\LR7OAIP.pdb
